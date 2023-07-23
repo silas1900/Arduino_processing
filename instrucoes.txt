@@ -1,0 +1,10 @@
+Utilizando processing com arduino para monitoramento de temperatura.
+Necessário baixar o Processing
+https://processing.org/download
+
+
+O Processing é uma linguagem criada em 2001 por Casey Reas e
+Benjamin Fry, na época estudantes do MIT.
+Seu objetivo é server como ferramenta de
+desenvolvimento de projetos gráficos e interativos para
+artistas e designers com pouco conhecimento de programação
